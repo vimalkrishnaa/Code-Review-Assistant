@@ -2,7 +2,7 @@
 
 A comprehensive web application that automatically reviews source code using AI/LLM technology. Built with FastAPI backend and React frontend, featuring advanced code analysis, PDF report generation, and a complete dashboard with review history.
 
-🎥 **Demo Video:** [Watch on Google Drive](https://drive.google.com/file/d/1ABCxyz12345/view?usp=sharing](https://drive.google.com/file/d/1sIUe2z6yl-B_7nOuoCZYOcm_RmUSRhwn/view?usp=sharing))
+🎥 **Demo Video:** [Watch on Google Drive](https://drive.google.com/file/d/1sIUe2z6yl-B_7nOuoCZYOcm_RmUSRhwn/view?usp=sharing)
 
 
 ## 🚀 Features
